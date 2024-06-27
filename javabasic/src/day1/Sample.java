@@ -6,6 +6,7 @@ public class Sample {
 		System.out.println("Welcome to JFS");
 		System.out.println("MVIT");
 		System.out.print("TNSIF");
+		
 
 	}
 
