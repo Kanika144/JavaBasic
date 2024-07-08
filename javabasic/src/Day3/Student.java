@@ -27,6 +27,4 @@ public class Student {
 		return "Student [sid=" + sid + ", sname=" + sname + ", city=" + city + "]";
 	}
 	
-	
-	
 }
