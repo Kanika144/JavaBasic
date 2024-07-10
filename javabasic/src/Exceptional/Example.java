@@ -1,9 +1,8 @@
-package Exception;
+package Exceptional;
 
 public class Example {
 
 	public static void main(String[] args) {
-		
 		int a,b,c;
 		a=10;
 		b=0;
