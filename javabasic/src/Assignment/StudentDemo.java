@@ -19,7 +19,7 @@ public class StudentDemo {
 		name=sc.nextLine();
 		
 		System.out.println("Enter the grade");
-		grade=sc.nextChar();
+		grade=sc.nextInt();
 		
 		System.out.println("Enter the Percentage");
 		Percentage=sc.nextDouble();
